@@ -18,7 +18,7 @@ const sendErrorDev = (err, res) => {
 
 /**
  * If the error is operational, send the error message to the client. If it's not, send a generic error
- * message to the client
+ * message to the clients
  * @param err - the error object
  * @param res - the response object
  */
